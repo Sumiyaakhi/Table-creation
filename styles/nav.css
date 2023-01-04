@@ -1,0 +1,15 @@
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right:10px; /* for right side space*/
+}
+nav li:hover{
+    background-color: antiquewhite;
+}
+
+nav li a{
+    text-decoration: none;
+    color: black;
+}
